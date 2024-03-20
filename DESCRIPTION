@@ -14,3 +14,4 @@ Depends:
 LazyData: true
 URL: https://github.com/adlewismbb/PheWASmaps
 BugReports: https://github.com/adlewismbb/PheWASmaps/issues
+Suggests: PheWAS

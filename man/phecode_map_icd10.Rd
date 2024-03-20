@@ -31,7 +31,7 @@ Can be provided to \code{\link[PheWAS:createPhenotypes]{createPhenotypes}}
 in the \code{vocabulary.map} parameter to convert ICD10 codes for use in
 the PheWAS methods.
 It is the map 1.2b1.
-\code{\link[PheWAS:phecode_map]{PheWAS::phecode_map}} contains mapping for
+\code{\link[PheWASmaps:phecode_map]{PheWASmaps::phecode_map}} contains mapping for
 ICD9CM and ICD10CM (ie, US use cases).
 }
 \keyword{datasets}
