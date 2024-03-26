@@ -115,3 +115,16 @@
 #' ...
 #' }
  "phecodeX_map"
+ 
+ #' PhecodeX Rollup Map
+ #'
+ #'a data map that contains phecode X parent-child pairings
+ #'
+ #'@format ## `phecodeX_rollup_map`
+ #'a data frame with 3319 rows of 2 columns
+ #'\describe{
+ #'\item{code}{the reference phecode}
+ #'\item{phecode_unrolled}{the parent phecode}
+ #'...
+ #'}
+ "phecodeX_rollup_map"
